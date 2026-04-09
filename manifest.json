@@ -1,0 +1,18 @@
+{
+  "name": "RL Training Hub",
+  "short_name": "RL Hub",
+  "description": "Rocket League training companion app",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a12",
+  "theme_color": "#ff6b00",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%230a0a12'/%3E%3Ccircle cx='96' cy='86' r='40' fill='none' stroke='%23ff6b00' stroke-width='6'/%3E%3Cpath d='M70 86 L96 60 L122 86' fill='none' stroke='%23ff6b00' stroke-width='5'/%3E%3Ctext x='96' y='160' text-anchor='middle' fill='%23fff' font-size='28' font-family='sans-serif' font-weight='bold'%3ERL HUB%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
